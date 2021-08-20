@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { FooComponent } from '@northpower/shared-comp-lib';
 
 @Component({
   selector: 'app-root',
